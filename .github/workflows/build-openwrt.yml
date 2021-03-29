@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt
+name: Build OpenWRT_N1_MagicMsY
 
 on:
   repository_dispatch:
